@@ -18,4 +18,12 @@
 
 - `lib.rs` Code for libraries is generally in a file called `lib.rs`
 
+# MicroChip AVR
+
+- https://codelabs.developers.google.com/codelabs/avr-cloud-iot/
+- https://console.cloud.google.com/iot/locations/us-central1/registries/AVR-IOT/devices/d01230D9EB96D667CFE?project=iot-devfest-2019-229821
+- https://github.com/danielbank/AVR-IoT_WG_Sensor_Node
+- https://console.cloud.google.com/home/dashboard?project=iot-devfest-2019&organizationId=0
+- https://avr-iot.com/device/01230D9EB96D667CFE
+
 # Mesh 101 with Argon by Particle
